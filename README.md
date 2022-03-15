@@ -4,7 +4,7 @@ Please follow the steps below after cloning all three repositroies
 
 Install webpack and http-server if you haven't installed already
 
-** $npm i -g webpack http-server**
+**$npm i -g webpack http-server**
 
 open crosstab folder
 1. perform **$yarn install**
