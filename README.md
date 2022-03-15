@@ -8,7 +8,7 @@ Install webpack and http-server if you haven't installed already
  npm i -g webpack http-server
  ```
 
-## Open **/crosstab_mfe** folder in command prompt
+## Open `/crosstab_mfe` folder in command prompt
  ```
  yarn install
  ```
@@ -20,7 +20,7 @@ Install webpack and http-server if you haven't installed already
  ```
 
 
-## Open **/navbar_mfe** folder in command prompt
+## Open `/navbar_mfe` folder in command prompt
  ```
  yarn install
  ```
@@ -32,7 +32,7 @@ Install webpack and http-server if you haven't installed already
  ```
 
 
-## Open **/mfe_container** folder in command prompt
+## Open `/mfe_container` folder in command prompt
  ```
  yarn install**
  ```
