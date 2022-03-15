@@ -18,7 +18,7 @@ Open navbar folder in command prompt
 3. start the server using **$http-server . --cors**
 
 
-Open container folder in command prompt
+Open **/mfe_container** folder in command prompt
 1. perform **$yarn install**
 2. perform **$yarn start**
 
